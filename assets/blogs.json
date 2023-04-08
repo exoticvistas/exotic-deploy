@@ -1,0 +1,63 @@
+{
+    "blogs":[
+        {
+            "id": 0,
+            "slug":"the_essential_guide_to_preparing_for_a_successful_hiking_trip",
+            "category": "Hiking",
+            "category_id": 1,
+            "type": 1,
+            "author": {
+                "name": "Ken Juniour",
+                "profile_picture_url": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80"
+            },
+            "title": "The Essential Guide to Preparing for a Successful Hiking Trip",
+            "opening_text": "Are you ready for an outdoor adventure? Hiking is a great way to explore nature and get some exercise at the same time. But before you set out on your trail, it’s important to make sure you are properly prepared for the trip. In this article, we’ll provide tips on how to best prepare for a hiking trip so that you can have an enjoyable and safe experience.",
+            "points": [
+                {
+                    "point_title": "Inform people where you'll be hiking and when you expect to return. ",
+                    "point_content": "This is critical whether you're going on a day hike in a nearby park or a multi-day hike. Plan where you'll be camping each night as well as the section of trail you'll be hiking each day on a backpacking trip in case you need to be located for an evacuation. The best insurance is a written reminder with all of your information left behind with someone who isn't going and expects you to return or check in by a certain time.",
+                    "is_point_valid": true
+                },
+                {
+                    "point_title": "Examine Trip Reports. ",
+                    "point_content": "Even the most meticulous examination of a map may not provide you with a complete picture of the conditions or terrain you'll encounter in the field. On your map, what appears to be a few hundred yards of scree that you can skip across in seconds may actually be a labyrinthine boulder field that will take you an hour or more to scramble your way through. And that thin, seemingly innocuous blue line cutting through your trail could turn out to be a raging torrent rather than the gentle stream you imagined. Given the foregoing, it's well worth spending a half-hour or so at the computer scanning recent trip reports for anything that could cause problems.",
+                    "is_point_valid": true
+                },
+                {
+                    "point_title": "Choose appropriate gear. ",
+                    "point_content": "Consider the equipment you'll need for the specific trail. It is critical to wear a rainproof layer if you live in an area that experiences heavy rains. You must consider your cooking equipment when traveling to a windy location. Setting up a tent on sandy ground may be difficult. Find a method that will assist you in fastening it. You could also consider a self-standing tent. If you are unsure about the requirements, consulting will be extremely beneficial. It is critical to plan ahead of time for what you will require. You have the option of modifying, replacing, or purchasing a new one.",
+                    "is_point_valid": true
+                },
+                {
+                    "point_title": "Pack ahead of time. ",
+                    "point_content": "It is recommended that you pack early. It eliminates the last-minute rush. It also gives you time to remember anything you might have forgotten. Furthermore, you may discover that you have too much stuff. As a result, you will have sufficient time to make a decision. You might consider changing the size of your backpack, for example.",
+                    "is_point_valid": true
+                },
+                {
+                    "point_title": "",
+                    "point_content": "",
+                    "is_point_valid": false
+                }
+            ],
+            "short_description": "Are you ready for an outdoor adventure? Hiking is a great way to explore nature and get some exercise at the same time. But before you set out on your trail, it’s important to make sure you are properly prepared for the trip...",
+            "time_posted": 1677916916000,
+            "time_updated": 1677916916000,
+            "read_time_approx": "5 min",
+            "quote": {
+                "words": "Being the adventurer I am, I can say with certainty that proper preparation for an adventure is essential. I learned this the hard way, after years of exploration. Any beginners will have it easy thanks to Exotic Vistas, just call them and ask.",
+                "name": "Ken",
+                "position": "Guide at Exotic Vistas",
+                "profile_picture_url": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80"
+            },
+            "conclusion": "Preparation is key to the success of any endeavor and hiking is no different. With the tips above you can get ready for a hiking adventure and most importantly enjoy yourself on the trail.",
+            "cta": {
+                "title": "We’re here to help",
+                "text": "You can contact us for any questions(in relation to this article) you may have that haven't been answered. We hope this information was useful, stay tuned for more helpful content like this.",
+                "primary_action": "Inquire",
+                "secondary_action": "Back",
+                "primary_action_navigation": "",
+                "secondary_action_navigation": ""
+            }
+        }
+    ]
+}
